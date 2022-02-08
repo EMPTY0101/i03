@@ -1,7 +1,6 @@
-ul i{
+.odd {
     color: red;
 }
-p i{
+.even {
     color: green;
-
-}
+} 
